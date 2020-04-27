@@ -3,7 +3,7 @@
 int main() {
 
   signed int x = 5;
-  signed int   y = -4;
+  signed int y = -4;
 
   if ( x > y )
     printf( "%d é maior do que %d\n", x, y );
